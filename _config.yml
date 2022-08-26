@@ -6,7 +6,7 @@ title: Kirill Chmel # the website title (if blank, full name will be used instea
 first_name: Kirill
 middle_name:
 last_name: Chmel
-email: chmel.kir@gmail.com
+email: kc3580@columbia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Kirill Chmel's personal website. Sill learning. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >

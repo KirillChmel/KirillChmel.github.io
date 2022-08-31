@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Student @ <a href='https://polisci.columbia.edu/'>Political Science, Columbia University</a>
+subtitle: Graduate Student / <a href='https://polisci.columbia.edu/'>Political Science, Columbia University</a>
 
 profile:
   align: right

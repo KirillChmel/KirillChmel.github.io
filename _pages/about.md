@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Columbia U</a>. Address. Contacts. Moto. Etc.
+subtitle: Graduate Student @ <a href='https://polisci.columbia.edu/'>Political Science, Columbia University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true               # includes a list of news items
+selected_papers: false   # includes a list of papers marked as "selected={true}"
+social: false            # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. I'm so happy!
+I am a first-year graduate student in Political Science at [Columbia University](https://polisci.columbia.edu/). Previously I was a research fellow at the [Ronald F. Inglehart Laboratory for Comparative Social Research](https://lcsr.hse.ru/en/) and a lecturer at [HSE University](https://www.hse.ru/en/) and [University of London](https://www.london.ac.uk/). I also worked as a research assistant for [Indiana University](https://polisci.indiana.edu/) and [United Arab Emirates University](https://www.uaeu.ac.ae/en/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Inequality, social policy, and public opinion in developing countries - and more specifically in the ones under authoritarian rule - are my primary research interests. As a prospective political methodologists I am interested in causal inference, bayesian statistics, and the application of machine learning algorithms in political research. I mostly focus on the individual level of analysis using surveys, lab and field experiments.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my MA in [Applied Politics](https://www.hse.ru/en/ma/ps/) and BA in [Political Science](https://www.hse.ru/en/ba/political/) from HSE University in Moscow, Russia.
+
+Download my CV here and reach me out at kc3580@columbia.edu

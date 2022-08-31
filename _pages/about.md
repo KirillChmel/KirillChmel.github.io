@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: photo by [Vladimir Averin](https://vlaverin.com)
+  address: photo by <a href='https://vlaverin.com'>Vladimir Averin</a>
 
 news: true               # includes a list of news items
 selected_papers: false   # includes a list of papers marked as "selected={true}"
@@ -21,4 +21,4 @@ Inequality, social policy, and public opinion in developing countries - and more
 
 I received my MA in [Applied Politics](https://www.hse.ru/en/ma/ps/) and BA in [Political Science](https://www.hse.ru/en/ba/political/) from HSE University in Moscow, Russia.
 
-Download my CV here and reach me out at kc3580@columbia.edu
+Download my CV here and reach me out at [kc3580@columbia.edu](mailto::kc3580@columbia.edu)

@@ -2,11 +2,13 @@
 layout: page
 permalink: /surveys/
 title: surveys
-description: Materials for courses you taught. Replace this text with your description.
+description: This page contains information about surveys for the purposes of my own or collaborative projects. Should you have any questions about these surveys or access to the data, feel free to contact me.
+years: [2022, 2021, 2020, 2019, 2018]
 nav: true
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f surveys -q @survey[year={{y}}]* %}
+{% endfor %}

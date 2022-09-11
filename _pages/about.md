@@ -21,4 +21,4 @@ Inequality, social policy, and public opinion in developing countries - and more
 
 I received my MA in [Applied Politics](https://www.hse.ru/en/ma/ps/) and BA in [Political Science](https://www.hse.ru/en/ba/political/) from HSE University in Moscow, Russia.
 
-Download my CV [here](https://www.dropbox.com/s/m3pivhqzvh3bro4/kc-cv-vSep_2022.pdf?dl=0) and reach me out at [kc3580@columbia.edu](mailto::kc3580@columbia.edu)
+Download my CV [here](https://www.dropbox.com/s/cjf2ivhszu8r735/kc-cv-vSep_2022.pdf?dl=0) and reach me out at [kc3580@columbia.edu](mailto::kc3580@columbia.edu)

@@ -17,7 +17,7 @@ social: false            # includes social icons at the bottom of the page
 
 I am a first-year graduate student in Political Science at Columbia University. Previously I was a research fellow at the [Ronald F. Inglehart Laboratory for Comparative Social Research](https://lcsr.hse.ru/en/) and a lecturer at HSE University and University of London. I also worked as a research assistant for Indiana University and United Arab Emirates University.
 
-I am generally interested in inequality and social policy in developing countries. Specifically, I would like to investigate how exposure to inequality in real life and on social media affects preferences for redistribution, perceptions of social mobility, and support for incumbents. As a scholar of autocratic politics, I am especially interested in how autocrats utilize economic segregation and redistribution for political ends.
+I am generally interested in inequality and social policy. In my dissertation research I study how exposure to inequality in real life and on social media affects preferences for redistribution and support for an incumbent. As a scholar of autocratic politics, I am especially interested in how autocrats utilize economic segregation and redistribution for political ends.
 
 Causal inference, bayesian statistics, and the application of machine learning algorithms to political research are some of my methodological interests. I also have a first-hand experience of working with surveys and different types of experiments. My GitHub repository contains the data I collected with my co-authors.
 

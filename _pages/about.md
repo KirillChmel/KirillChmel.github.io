@@ -15,12 +15,10 @@ selected_papers: false   # includes a list of papers marked as "selected={true}"
 social: false            # includes social icons at the bottom of the page
 ---
 
-I am a first-year graduate student in Political Science at Columbia University. Previously I was a research fellow at the [Ronald F. Inglehart Laboratory for Comparative Social Research](https://lcsr.hse.ru/en/) and a lecturer at HSE University and University of London. I also worked as a research assistant for Indiana University and United Arab Emirates University.
+I am a second-year graduate student in Political Science at Columbia University. I am also a non-resident fellow at the Global Academy, The Russia Program at GW.
 
-I am generally interested in inequality and social policy. In my dissertation research I study how exposure to inequality in real life and on social media affects preferences for redistribution and support for an incumbent. As a scholar of autocratic politics, I am especially interested in how autocrats utilize economic segregation and redistribution for political ends.
+In my dissertation project, I aim to examine how exposure to inequality in physical and informational environments affects human behavior and attitude formation. Generally, I am interested in a variety of topics in political economy, urban studies, and autocratic politics. I focus on causal inference and use methods of econometrics, prompt engineering, machine learning, and Bayesian statistics. In my research I extensively use lab and survey experiments.
 
-Causal inference, bayesian statistics, and the application of machine learning algorithms to political research are some of my methodological interests. I also have a first-hand experience of working with surveys and different types of experiments. My GitHub repository contains the data I collected with my co-authors.
+I hold a BA in Political Science and an MA in Applied Politics from HSE University. Prior to Columbia, I worked as a research fellow at the [Ronald F. Inglehart Laboratory for Comparative Social Research](https://lcsr.hse.ru/en/), a lecturer at HSE University and University of London, and a research assistant at HSE University, Indiana University, and United Arab Emirates University.
 
-I was born in Samara, Russia. I moved to Moscow, Russia, in 2014 to pursue my BA in [Political Science](https://www.hse.ru/en/ba/political/) and MA in [Applied Politics](https://www.hse.ru/en/ma/ps/) degrees from HSE University.
-
-Download the latest version of my CV [here](https://www.dropbox.com/s/cjf2ivhszu8r735/kc-cv-vSep_2022.pdf?dl=0) and reach me at [kc3580@columbia.edu](mailto::kc3580@columbia.edu).
+Download the latest version of my CV [here](https://www.dropbox.com/s/cjf2ivhszu8r735/kc-cv-vSep_2022.pdf?dl=0).

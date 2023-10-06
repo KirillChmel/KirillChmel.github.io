@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD Student | <a href='https://polisci.columbia.edu/'>Political Science, Columbia University</a>
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: photo by <a href='https://vlaverin.com'>Vladimir Averin</a>
